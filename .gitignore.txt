@@ -1,6 +1,7 @@
 *.pyc
 *~
 /.vscode
+/static
 __pycache__
 myvenv
 db.sqlite3
